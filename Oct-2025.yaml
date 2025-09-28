@@ -65,7 +65,7 @@ cv:
         start_date: 2024-01
         end_date: 2024-05
         location:
-        summary: A web app to find GYMs, Recipes, track calorie intake, and a built-in BMI calculator
+        summary: A web app to find gyms, recipes, track calorie intake, and a built-in BMI calculator
         highlights:
           - Led backend development for a 5-person team in an Agile environment, engineering a RESTful API with 20+ endpoints using Node.js and Express.js to power user, recipe, and workout management features.
 
